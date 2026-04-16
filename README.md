@@ -1,7 +1,9 @@
 Informasi Pengembang
 
 Nama: Alya Darwani Armunanto 
+
 NPM: 24082010161
+
 Kelompok: APAYA-Kelompok-II 
 
 Deskripsi Aplikasi
